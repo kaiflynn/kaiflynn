@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kaiflynn
+- 👀 I’m interested in Web Programming
+- 🌱 I’m currently learning PHP, Bootstrap, Codeigniter
+- 📫 How to reach me github.com/kaiflynn
